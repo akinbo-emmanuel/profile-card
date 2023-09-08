@@ -21,6 +21,15 @@ body {
     text-align: left;
 }
 
+.data{
+    display: flex;
+    gap: 0.25rem;
+}
+
+.label{
+    font-weight: 500;
+}
+
 img {
     max-width: 100%;
     width: 19rem;
